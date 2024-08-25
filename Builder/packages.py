@@ -13,19 +13,17 @@ BASE_PACKAGES = [
     "vlc", "usbutils", "picom", "networkmanager-openvpn", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
     "p7zip", "gparted", "sshfs", "openvpn", "xclip", "gpick", "wget", "ueberzug", "netctl", "light", "libreoffice",
     "breeze", "vulkan-intel", "intel-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", "ttf-fira-code",
-    "ttf-iosevka-nerd"
+    "ttf-iosevka-nerd", "telegram-desktop", "chromium"
 ]
 
 DEV_PACKAGES = [
-    "cheese", "screenkey", "timeshift", "pinta", "kdenlive", "wireshark-qt",
-    "filezilla", "ghex", "chromium", "keepassxc", "audacity", "gufw", "python-pywal",
-    "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
-    "neovim", "obs-studio", "telegram-desktop", "tmux", "youtube-dl", "code", "cowsay",
-    "deluge-gtk", "flameshot", "sqlitebrowser", "obsidian", "python-pip", "bpython", "ipython", "cloc",
+    "timeshift", "filezilla", "ghex", "keepassxc", "nftables", "python-pywal",
+    "bleachbit", "veracrypt", "gtkhash", "neovim", "tmux", "youtube-dl", "cowsay",
+    "deluge-gtk", "flameshot", "obsidian", "python-pip", "cloc",
 ]
 
 AUR_PACKAGES = [
-    "cava", "i3lock-color", "ptpython"
+    "cava", "i3lock-color"
 ]
 
 GNOME_OFFICIAL_TOOLS = [
